@@ -1,7 +1,12 @@
 import pandas as pd
 import numpy as np
 import datetime
+<<<<<<< HEAD
 # working on version control - addition changes
+=======
+# working on version control-branch -refactoring
+
+>>>>>>> refactoring
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
